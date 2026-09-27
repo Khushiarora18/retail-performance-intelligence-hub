@@ -78,10 +78,23 @@ Explores regional performance, customer-segment contribution, segment mix, order
 ## 📁 Repository Structure
 
 ```text
+
 retail-performance-intelligence-hub/
 │
 ├── Dashboard/
+│   └── Retail_Performance_Intelligence_Hub.pbix
+│
 ├── Data/
+│   └── Project_01_Retail_Performance_Intelligence_Dataset.xlsx
+│
 ├── Screenshots/
+│   ├── Page 1.png
+│   ├── Page 2.png
+│   ├── Page 3.png
+│   └── Page 4.png
+│
 ├── Case-Study/
-└── Documentation/
+├── Documentation/
+│   └── Retail_Performance_Intelligence_DAX_Documentation.pdf
+│
+└── README.md
